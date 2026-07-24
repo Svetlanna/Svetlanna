@@ -8,8 +8,9 @@
 🧠 Machine Learning • Deep Learning
 </h2>
 
-<img src="https://img.shields.io/badge/Expérience-7%2B%20ans-blue?style=for-the-badge">
-<img src="https://img.shields.io/badge/Localisation-Montpellier%2C%20France-red?style=for-the-badge">
+<p>
+<img src="https://img.shields.io/badge/Expérience-7%2B%20ans-blue?style=for-the-badge"> <img src="https://img.shields.io/badge/Localisation-Montpellier%2C%20France-red?style=for-the-badge">
+</p>
 
 </div>
 
@@ -27,17 +28,9 @@ Mon parcours initial de développeuse full-stack (PHP, Laravel, JavaScript) me d
 
 # 🤖 Domaines d'expertise
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Machine%20Learning-009688?style=for-the-badge">
-<img src="https://img.shields.io/badge/Deep%20Learning-673AB7?style=for-the-badge">
-<img src="https://img.shields.io/badge/Data%20Science-4285F4?style=for-the-badge">
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
-<img src="https://img.shields.io/badge/Azure%20Data%20Lake-Cloud-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Machine%20Learning-009688?style=for-the-badge"> <img src="https://img.shields.io/badge/Deep%20Learning-673AB7?style=for-the-badge"> <img src="https://img.shields.io/badge/Data%20Science-4285F4?style=for-the-badge"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"> <img src="https://img.shields.io/badge/Azure%20Data%20Lake-Cloud-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
+</p>
 
 - **Machine Learning** : régression, classification, clustering, feature engineering
 - **Deep Learning** : réseaux de neurones, CNN, RNN, NLP
@@ -48,14 +41,14 @@ Mon parcours initial de développeuse full-stack (PHP, Laravel, JavaScript) me d
 
 # 🗄️ Bases de données
 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+<p>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+</p>
 
 ---
 
 # 🌐 Développement Web *(socle technique)*
 
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white">
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
+<p>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
+</p>
