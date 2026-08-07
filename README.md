@@ -1,11 +1,11 @@
-# 👋 Hello, je suis Svetlana Sultanyan
+#  Hello, je suis Svetlana Sultanyan
 
 <div align="center">
 
 <h2>
-🤖 Développeuse IA & Data Science
+ Développeuse IA & Data Science
 <br>
-🧠 Machine Learning • Deep Learning
+ Machine Learning • Deep Learning
 </h2>
 
 <p>
@@ -16,7 +16,7 @@
 
 ---
 
-# 👩‍💻 À propos de moi
+#  À propos de moi
 
 Je suis **Svetlana Sultanyan**, Développeuse IA & Data Science, forte de **7 ans d'expérience** en développement logiciel.
 
@@ -26,7 +26,7 @@ Mon parcours initial de développeuse full-stack (PHP, Laravel, JavaScript) me d
 
 ---
 
-# 🤖 Domaines d'expertise
+#  Domaines d'expertise
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Machine%20Learning-009688?style=for-the-badge"> <img src="https://img.shields.io/badge/Deep%20Learning-673AB7?style=for-the-badge"> <img src="https://img.shields.io/badge/Data%20Science-4285F4?style=for-the-badge"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"> <img src="https://img.shields.io/badge/Azure%20Data%20Lake-Cloud-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
@@ -39,7 +39,7 @@ Mon parcours initial de développeuse full-stack (PHP, Laravel, JavaScript) me d
 
 ---
 
-# 🗄️ Bases de données
+#  Bases de données
 
 <p>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
@@ -47,7 +47,7 @@ Mon parcours initial de développeuse full-stack (PHP, Laravel, JavaScript) me d
 
 ---
 
-# 🌐 Développement Web *(socle technique)*
+#  Développement Web *(socle technique)*
 
 <p>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white"> <img src="https://img.shields.io/badge/AngularJS-E23237?style=flat&logo=angularjs&logoColor=white">
