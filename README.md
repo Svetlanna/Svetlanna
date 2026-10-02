@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://github.com/Svetlanna/Svetlanna/blob/main/README.md"><img src="https://flagcdn.com/w40/fr.png" width="32" alt="Français" title="Français"></a>
+  &nbsp;
+  <a href="https://github.com/Svetlanna/Svetlanna/blob/main/README.en.md"><img src="https://flagcdn.com/w40/gb.png" width="32" alt="English" title="English"></a>
+</p>
+
 #  Hello, je suis Svetlana Sultanyan
 
 <div align="center">
@@ -5,7 +11,7 @@
 <h2>
  Développeuse IA & Data Science
 <br>
- Machine Learning • Deep Learning
+ Machine Learning | Deep Learning
 </h2>
 
 <p>
@@ -18,24 +24,24 @@
 
 #  À propos de moi
 
-Je suis **Svetlana Sultanyan**, Développeuse IA & Data Science, forte de **7 ans d'expérience** en développement logiciel.
+Je suis **Svetlana Sultanyan**, développeuse IA et Data Science avec **7 ans d'expérience** en développement logiciel
 
-Je me spécialise aujourd'hui dans l'**Intelligence Artificielle**, le **Machine Learning**, le **Deep Learning** et la **Data Science**, avec pour objectif de concevoir des modèles et des solutions data-driven robustes et performantes.
+Aujourd'hui je me consacre à l'**Intelligence Artificielle**, au **Machine Learning**, au **Deep Learning** et à la **Data Science**, en créant des modèles et des solutions data qui fonctionnent dans des projets concrets
 
-Mon parcours initial de développeuse full-stack (PHP, Laravel, JavaScript) me donne une base solide en ingénierie logicielle, que je mets aujourd'hui au service de projets IA : de la préparation des données à la mise en production de modèles.
+J'ai commencé comme développeuse full-stack (PHP, Laravel, JavaScript), ce qui m'a donné de bonnes bases en ingénierie logicielle. Je les utilise maintenant dans mes projets IA, de la préparation des données jusqu'à la mise en production des modèles
 
 ---
 
 #  Domaines d'expertise
 
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Machine%20Learning-009688?style=for-the-badge"> <img src="https://img.shields.io/badge/Deep%20Learning-673AB7?style=for-the-badge"> <img src="https://img.shields.io/badge/Data%20Science-4285F4?style=for-the-badge"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"><img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"> <img src="https://img.shields.io/badge/Azure%20Data%20Lake-Cloud-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Machine%20Learning-009688?style=for-the-badge"> <img src="https://img.shields.io/badge/Deep%20Learning-673AB7?style=for-the-badge"> <img src="https://img.shields.io/badge/Data%20Science-4285F4?style=for-the-badge"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"> <img src="https://img.shields.io/badge/Azure%20Data%20Lake-Cloud-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
 </p>
 
-- **Machine Learning** : régression, classification, clustering, feature engineering
-- **Deep Learning** : réseaux de neurones, CNN, RNN, NLP
-- **Data Science** : nettoyage, analyse et visualisation de données, modélisation statistique
-- **MLOps** : entraînement, évaluation et déploiement de modèles
+- **Machine Learning** avec régression, classification, clustering et feature engineering
+- **Deep Learning** avec réseaux de neurones, CNN, RNN et NLP
+- **Data Science** avec nettoyage, analyse et visualisation de données, modélisation statistique
+- **MLOps** avec entraînement, évaluation et déploiement de modèles
 
 ---
 
